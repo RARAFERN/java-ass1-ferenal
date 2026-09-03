@@ -1,5 +1,3 @@
-# java-ass1-ferenal
-
 Question A: Do you find it difficult to set up your GitHub portfolio?
     Yes, i found setting up my GitHub portfolio a bit difficult because I was not familiar with how GitHub works. I was confused about some steps, especially when creating a repositry and uploadng my files. Whenever I was unsure about something, I asked other people for help, including my friend who already knew a little more about coding, their help made it easier for me to understand what I needed to do. 
 
